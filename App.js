@@ -9,7 +9,7 @@ const App = () => {
 
   const scsCall = async () => {
     let authKey = 'ed7482b8-22ce-45c4-b49c-f8e42321ea7a';
-    let userEmail = 'eazzy@yopmail.com';
+    let userEmail = 'main@Xmail.com';
 
     //let scsApiURL = '';
     //let offerCode = '';
